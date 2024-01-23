@@ -1,4 +1,4 @@
-<h1 align="center"> Gui Pardin | Dev Links </h1>
+<h1 align="center"> Site | Academia Treine.me </h1>
 <br>
 
 ## 🚀 Tecnologias
@@ -6,7 +6,6 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript
 - Git e Github
 - Figma
 
